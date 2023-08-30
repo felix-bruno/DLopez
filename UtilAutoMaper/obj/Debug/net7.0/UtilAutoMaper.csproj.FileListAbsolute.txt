@@ -1,0 +1,12 @@
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\bin\Debug\net7.0\UtilAutoMaper.deps.json
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\bin\Debug\net7.0\UtilAutoMaper.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\bin\Debug\net7.0\UtilAutoMaper.pdb
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\UtilAutoMaper.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\UtilAutoMaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\UtilAutoMaper.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\UtilAutoMaper.AssemblyInfo.cs
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\UtilAutoMaper.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\UtilAutoMaper.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\refint\UtilAutoMaper.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\UtilAutoMaper.pdb
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\ref\UtilAutoMaper.dll

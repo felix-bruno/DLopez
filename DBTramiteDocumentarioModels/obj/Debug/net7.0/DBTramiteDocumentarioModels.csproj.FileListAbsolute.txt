@@ -1,0 +1,14 @@
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\bin\Debug\net7.0\DBTramiteDocumentarioModels.deps.json
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\bin\Debug\net7.0\DBTramiteDocumentarioModels.runtimeconfig.json
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\bin\Debug\net7.0\DBTramiteDocumentarioModels.dll
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\bin\Debug\net7.0\DBTramiteDocumentarioModels.pdb
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\obj\Debug\net7.0\DBTramiteDocumentarioModels.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\obj\Debug\net7.0\DBTramiteDocumentarioModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\obj\Debug\net7.0\DBTramiteDocumentarioModels.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\obj\Debug\net7.0\DBTramiteDocumentarioModels.AssemblyInfo.cs
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\obj\Debug\net7.0\DBTramiteDocumentarioModels.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\obj\Debug\net7.0\DBTramiteDocumentarioModels.dll
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\obj\Debug\net7.0\refint\DBTramiteDocumentarioModels.dll
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\obj\Debug\net7.0\DBTramiteDocumentarioModels.pdb
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\obj\Debug\net7.0\DBTramiteDocumentarioModels.genruntimeconfig.cache
+C:\Users\felix\source\repos\proyectodlopez\DBTramiteDocumentarioModels\obj\Debug\net7.0\ref\DBTramiteDocumentarioModels.dll

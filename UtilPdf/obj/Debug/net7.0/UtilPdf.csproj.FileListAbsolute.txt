@@ -1,0 +1,12 @@
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\bin\Debug\net7.0\UtilPdf.deps.json
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\bin\Debug\net7.0\UtilPdf.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\bin\Debug\net7.0\UtilPdf.pdb
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\obj\Debug\net7.0\UtilPdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\obj\Debug\net7.0\UtilPdf.AssemblyInfo.cs
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\obj\Debug\net7.0\UtilPdf.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\obj\Debug\net7.0\UtilPdf.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\obj\Debug\net7.0\refint\UtilPdf.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\obj\Debug\net7.0\UtilPdf.pdb
+C:\Users\felix\source\repos\proyectodlopez\UtilPdf\obj\Debug\net7.0\ref\UtilPdf.dll

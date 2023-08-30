@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\bin\Debug\net7.0\RequestResponstModels.deps.json
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\bin\Debug\net7.0\RequestResponstModels.dll
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\bin\Debug\net7.0\RequestResponstModels.pdb
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\obj\Debug\net7.0\RequestResponstModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\obj\Debug\net7.0\RequestResponstModels.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\obj\Debug\net7.0\RequestResponstModels.AssemblyInfo.cs
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\obj\Debug\net7.0\RequestResponstModels.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\obj\Debug\net7.0\RequestResponstModels.dll
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\obj\Debug\net7.0\refint\RequestResponstModels.dll
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\obj\Debug\net7.0\RequestResponstModels.pdb
+C:\Users\felix\source\repos\proyectodlopez\RequestResponstModels\obj\Debug\net7.0\ref\RequestResponstModels.dll

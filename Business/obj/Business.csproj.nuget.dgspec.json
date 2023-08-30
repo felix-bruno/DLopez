@@ -1,0 +1,907 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Business\\Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\CommonModels\\CommonModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\CommonModels\\CommonModels.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IRepository\\IRepository.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IRepository\\IRepository.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IService\\IService.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IService\\IService.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Repository\\Repository.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Service\\Service.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilAutoMaper\\UtilAutoMaper.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilAutoMaper\\UtilAutoMaper.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilConstant\\UtilConstant.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilConstant\\UtilConstant.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilExcel\\UtilExcel.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilExcel\\UtilExcel.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilPdf\\UtilPdf.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilPdf\\UtilPdf.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilSecurity\\UtilSecurity.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilSecurity\\UtilSecurity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\CommonModels\\CommonModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\CommonModels\\CommonModels.csproj",
+        "projectName": "CommonModels",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\CommonModels\\CommonModels.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\CommonModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj",
+        "projectName": "DBTramiteDocumentarioModels",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IRepository\\IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IRepository\\IRepository.csproj",
+        "projectName": "IRepository",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IRepository\\IRepository.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IService\\IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IService\\IService.csproj",
+        "projectName": "IService",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IService\\IService.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\CommonModels\\CommonModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\CommonModels\\CommonModels.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilConstant\\UtilConstant.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilConstant\\UtilConstant.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj",
+        "projectName": "RequestResponstModels",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilAutoMaper\\UtilAutoMaper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilAutoMaper\\UtilAutoMaper.csproj",
+        "projectName": "UtilAutoMaper",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilAutoMaper\\UtilAutoMaper.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilAutoMaper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilConstant\\UtilConstant.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilConstant\\UtilConstant.csproj",
+        "projectName": "UtilConstant",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilConstant\\UtilConstant.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilConstant\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilExcel\\UtilExcel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilExcel\\UtilExcel.csproj",
+        "projectName": "UtilExcel",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilExcel\\UtilExcel.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilExcel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilPdf\\UtilPdf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilPdf\\UtilPdf.csproj",
+        "projectName": "UtilPdf",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilPdf\\UtilPdf.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilPdf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilSecurity\\UtilSecurity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilSecurity\\UtilSecurity.csproj",
+        "projectName": "UtilSecurity",
+        "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilSecurity\\UtilSecurity.csproj",
+        "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\UtilSecurity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

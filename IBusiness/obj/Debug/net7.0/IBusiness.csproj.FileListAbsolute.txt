@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\bin\Debug\net7.0\IBusiness.deps.json
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\bin\Debug\net7.0\IBusiness.dll
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\bin\Debug\net7.0\IBusiness.pdb
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\IBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\IBusiness.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\IBusiness.AssemblyInfo.cs
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\IBusiness.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\IBusiness.dll
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\refint\IBusiness.dll
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\IBusiness.pdb
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\ref\IBusiness.dll

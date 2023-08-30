@@ -1,0 +1,12 @@
+C:\Users\felix\source\repos\proyectodlopez\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\felix\source\repos\proyectodlopez\Service\bin\Debug\net7.0\Service.dll
+C:\Users\felix\source\repos\proyectodlopez\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\felix\source\repos\proyectodlopez\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\proyectodlopez\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\proyectodlopez\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\felix\source\repos\proyectodlopez\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\Service\obj\Debug\net7.0\Service.dll
+C:\Users\felix\source\repos\proyectodlopez\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\felix\source\repos\proyectodlopez\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\felix\source\repos\proyectodlopez\Service\obj\Debug\net7.0\ref\Service.dll

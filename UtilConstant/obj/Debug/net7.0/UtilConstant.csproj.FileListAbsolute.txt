@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\bin\Debug\net7.0\UtilConstant.deps.json
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\bin\Debug\net7.0\UtilConstant.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\bin\Debug\net7.0\UtilConstant.pdb
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\obj\Debug\net7.0\UtilConstant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\obj\Debug\net7.0\UtilConstant.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\obj\Debug\net7.0\UtilConstant.AssemblyInfo.cs
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\obj\Debug\net7.0\UtilConstant.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\obj\Debug\net7.0\UtilConstant.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\obj\Debug\net7.0\refint\UtilConstant.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\obj\Debug\net7.0\UtilConstant.pdb
+C:\Users\felix\source\repos\proyectodlopez\UtilConstant\obj\Debug\net7.0\ref\UtilConstant.dll

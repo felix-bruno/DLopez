@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\proyectodlopez\IRepository\bin\Debug\net7.0\IRepository.deps.json
+C:\Users\felix\source\repos\proyectodlopez\IRepository\bin\Debug\net7.0\IRepository.dll
+C:\Users\felix\source\repos\proyectodlopez\IRepository\bin\Debug\net7.0\IRepository.pdb
+C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\IRepository.AssemblyInfo.cs
+C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\IRepository.dll
+C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\refint\IRepository.dll
+C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\IRepository.pdb
+C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\ref\IRepository.dll

@@ -1,0 +1,12 @@
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\obj\Debug\net7.0\UtilSecurity.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
+C:\Users\felix\source\repos\proyectodlopez\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll
