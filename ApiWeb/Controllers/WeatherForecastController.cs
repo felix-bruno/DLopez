@@ -2,6 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ApiWeb.Controllers
 {
+    /// <summary>
+    /// 
+    /// </summary>
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
@@ -12,12 +15,18 @@ namespace ApiWeb.Controllers
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="logger"></param>
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {

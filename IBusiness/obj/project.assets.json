@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "RequestResponstModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/RequestResponstModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RequestResponstModels.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RequestResponstModels/1.0.0": {
+      "type": "project",
+      "path": "../RequestResponstModels/RequestResponstModels.csproj",
+      "msbuildProject": "../RequestResponstModels/RequestResponstModels.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "RequestResponstModels >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\felix\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj": {
+              "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -61,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

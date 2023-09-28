@@ -35,3 +35,5 @@ C:\Users\felix\source\repos\proyectodlopez\Business\obj\Debug\net7.0\Business.dl
 C:\Users\felix\source\repos\proyectodlopez\Business\obj\Debug\net7.0\refint\Business.dll
 C:\Users\felix\source\repos\proyectodlopez\Business\obj\Debug\net7.0\Business.pdb
 C:\Users\felix\source\repos\proyectodlopez\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\felix\source\repos\proyectodlopez\Business\bin\Debug\net7.0\IBusiness.dll
+C:\Users\felix\source\repos\proyectodlopez\Business\bin\Debug\net7.0\IBusiness.pdb

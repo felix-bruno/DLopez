@@ -9,3 +9,7 @@ C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\IReposit
 C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\refint\IRepository.dll
 C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\IRepository.pdb
 C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\ref\IRepository.dll
+C:\Users\felix\source\repos\proyectodlopez\IRepository\bin\Debug\net7.0\DBTramiteDocumentarioModels.dll
+C:\Users\felix\source\repos\proyectodlopez\IRepository\bin\Debug\net7.0\DBTramiteDocumentarioModels.pdb
+C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\IRepository.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\proyectodlopez\IRepository\obj\Debug\net7.0\IRepository.csproj.CopyComplete

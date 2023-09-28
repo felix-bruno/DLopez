@@ -9,3 +9,7 @@ C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\IBusiness.
 C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\refint\IBusiness.dll
 C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\IBusiness.pdb
 C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\ref\IBusiness.dll
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\bin\Debug\net7.0\RequestResponstModels.dll
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\bin\Debug\net7.0\RequestResponstModels.pdb
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\IBusiness.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\proyectodlopez\IBusiness\obj\Debug\net7.0\IBusiness.csproj.CopyComplete

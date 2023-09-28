@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiWeb</name>
+    </assembly>
+    <members>
+        <member name="T:ApiWeb.Controllers.AreaController">
+            <summary>
+            Api de Area
+            </summary>
+        </member>
+        <member name="M:ApiWeb.Controllers.AreaController.#ctor(AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.AreaController.GetAll">
+            <summary>
+            
+            </summary>
+            <returns>Lista de Areas</returns>
+        </member>
+        <member name="T:ApiWeb.Controllers.WeatherForecastController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ApiWeb.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{ApiWeb.Controllers.WeatherForecastController})">
+            <summary>
+            
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:ApiWeb.Controllers.WeatherForecastController.Get">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:ApiWeb.WeatherForecast">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ApiWeb.WeatherForecast.Date">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ApiWeb.WeatherForecast.TemperatureC">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ApiWeb.WeatherForecast.TemperatureF">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ApiWeb.WeatherForecast.Summary">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

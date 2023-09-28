@@ -10,3 +10,8 @@ C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\UtilAu
 C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\refint\UtilAutoMaper.dll
 C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\UtilAutoMaper.pdb
 C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\ref\UtilAutoMaper.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\bin\Debug\net7.0\DBTramiteDocumentarioModels.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\bin\Debug\net7.0\RequestResponstModels.dll
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\bin\Debug\net7.0\DBTramiteDocumentarioModels.pdb
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\bin\Debug\net7.0\RequestResponstModels.pdb
+C:\Users\felix\source\repos\proyectodlopez\UtilAutoMaper\obj\Debug\net7.0\UtilAutoMaper.csproj.CopyComplete

@@ -34,6 +34,9 @@
               "C:\\Users\\felix\\source\\repos\\proyectodlopez\\CommonModels\\CommonModels.csproj": {
                 "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\CommonModels\\CommonModels.csproj"
               },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj"
+              },
               "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IBusiness\\IBusiness.csproj": {
                 "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IBusiness\\IBusiness.csproj"
               },
@@ -62,43 +65,43 @@
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Abstractions": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
@@ -110,7 +113,7 @@
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[6.32.2, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -132,7 +135,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -165,6 +168,9 @@
               },
               "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj": {
                 "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IBusiness\\IBusiness.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IBusiness\\IBusiness.csproj"
               },
               "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IRepository\\IRepository.csproj": {
                 "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IRepository\\IRepository.csproj"
@@ -234,7 +240,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -295,7 +301,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -337,35 +343,35 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Abstractions": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
@@ -388,7 +394,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -415,7 +421,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -443,7 +453,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -470,7 +480,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -498,7 +512,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -553,7 +567,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -587,6 +601,9 @@
               "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj": {
                 "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj"
               },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IRepository\\IRepository.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\IRepository\\IRepository.csproj"
+              },
               "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj": {
                 "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj"
               },
@@ -608,35 +625,35 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Abstractions": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
@@ -659,7 +676,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -714,7 +731,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -779,7 +796,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -806,7 +823,14 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\DBTramiteDocumentarioModels\\DBTramiteDocumentarioModels.csproj"
+              },
+              "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj": {
+                "projectPath": "C:\\Users\\felix\\source\\repos\\proyectodlopez\\RequestResponstModels\\RequestResponstModels.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -840,7 +864,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -895,7 +919,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -960,7 +984,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -1025,7 +1049,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -1086,7 +1110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
